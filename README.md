@@ -1,0 +1,2 @@
+# javascriptprojectfirst
+learning javascript
